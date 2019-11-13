@@ -62,6 +62,8 @@
 * 网上查阅学习了后端在开发中的作用，以及响应前端请求，修改数据库这样的过程，我在model中建立task类，添加了title、content、priority_level、status、create_time、expire_time、last_modify_time等属性，这样便于完成要求（接受前端的请求，在数据库中修改对应的字段，实现删改排序等等功能）
  * 按照教程，在view.py中建立TaskListView类，django文档中给出了mixmin类，类中包括了对于model的增删改查操作，可以直接调用的方法 
 * 用指令注册，创建账户，将后端启动后，数据库中成功出现了我的表，在api_task_column中可见我在model中创建的字段
+* 以下是我使用的数据库截图：（用pgadmin访问）
+![我使用的数据库](https://github.com/snowflowersnowflake/projectForPreWork/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93.png)
 
 
 ## 11.9
@@ -108,3 +110,4 @@
 ## pri
 
 ![pri](https://github.com/snowflowersnowflake/projectForPreWork/blob/master/pir.gif)
+
