@@ -3,7 +3,7 @@
 ## 目录
 * todolist是后端（django），其中api目录是restframe
 * todolistfont是前端框架（react）
-* others里面包括了过程中创建到的其他材料（用于上手），比如教程文档中的helloworld，mysite投票系统，等等
+* others里面包括了过程中创建到的其他材料（用于上手），比如教程文档中的helloworld，mysite投票系统，等等，以及部分备份文件
 
 ## 要求
 >使用 Django, Django Rest Framework, Bootstrap, PostgreSQL, React 等技术做一个待办事项的网站。
@@ -87,4 +87,7 @@
 
 
 # 实现的功能
-# 
+
+## add
+
+！[add](add.gif)
