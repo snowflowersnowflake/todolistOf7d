@@ -52,7 +52,7 @@
 * 按照文档在系统服务设置中启动PostgreSQL服务
 * pip install psycopg2
 * 下载数据库可视化创建工具pgadmin
-* 参照官方文档（https://docs.djangoproject.com/en/1.8/ref/settings/#databases）中如何配置postgresql，将这些用于连接数据库的信息在setting中配置：'NAME': 'postgres','USER': 'postgres','PASSWORD': 'password123','HOST': 'localhost','PORT': '5433'
+* 参照[官方文档](https://docs.djangoproject.com/en/1.8/ref/settings/#databases)中如何配置postgresql，将这些用于连接数据库的信息在setting中配置：'NAME': 'postgres','USER': 'postgres','PASSWORD': 'password123','HOST': 'localhost','PORT': '5433'
 * 通过pgadmin创建了一个数据库，想在之前配置的model中添加数据字段结构，并按照django的官方文档添加字段类型和规范
 * 因为没有系统的思路，感觉过程困难，部署中遇到的错误也相当头疼，当天网购了一本关于django和pythonWeb的书，希望能对我有所帮助
 
