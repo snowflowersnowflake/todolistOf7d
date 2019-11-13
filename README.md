@@ -90,4 +90,4 @@
 
 ## add
 
-！[add](add.gif)
+ ![add](https://github.com/snowflowersnowflake/projectForPreWork/blob/master/add.gif)
