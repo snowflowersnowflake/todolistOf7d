@@ -1,5 +1,9 @@
 # projectForPreWork
 # prework-Todo List
+## 目录
+* todolist是后端（django），其中api目录是restframe
+* todolistfont是前端框架（react）
+* others里面包括了过程中创建到的其他材料（用于上手），比如教程文档中的helloworld，mysite投票系统，等等
 
 ## 要求
 >使用 Django, Django Rest Framework, Bootstrap, PostgreSQL, React 等技术做一个待办事项的网站。
@@ -78,8 +82,9 @@
 * 回过头来发现要求中的finish功能没有实现，然后着手在之前的代码中修改
 
 ## 11.12
-* 测试功能，并着手用工具截图做gif 
+* 发布并且测试功能，并着手用工具截图做gif 
 * 修改了前端显示的几个bug，例如edit无法点击，add后界面没有刷新好等等
+
 
 # 实现的功能
 # 
