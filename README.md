@@ -91,3 +91,20 @@
 ## add
 
  ![add](https://github.com/snowflowersnowflake/projectForPreWork/blob/master/add.gif)
+ 
+## delete
+
+  ![delete](https://github.com/snowflowersnowflake/projectForPreWork/blob/master/delete.gif)
+  
+  
+## edit
+ ![edit](https://github.com/snowflowersnowflake/projectForPreWork/blob/master/edit.gif)
+ 
+ 
+## finish
+
+![finish](https://github.com/snowflowersnowflake/projectForPreWork/blob/master/finish.gif)
+
+## pri
+
+![pri](https://github.com/snowflowersnowflake/projectForPreWork/blob/master/pir.gif)
