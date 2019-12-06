@@ -1,4 +1,4 @@
-# 如何七天自学全栈开发，实现一个小项目
+# 如何七天七夜自学全栈开发，实现一个小项目
 # prework-Todo List
 ## 目录
 * todolist是后端（django），其中api目录是restframe
