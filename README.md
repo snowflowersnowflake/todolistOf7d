@@ -1,5 +1,5 @@
 
-#  Todo List django-react
+#  7天搭建全栈框架 Todo List django-react in 7 days
 ## 目录
 * todolist是后端（django），其中api目录是restframe
 * todolistfont是前端框架（react）
